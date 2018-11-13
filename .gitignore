@@ -1,0 +1,16 @@
+
+# Compiled class file
+*.class
+
+# 忽略 target
+target
+
+# 忽略 target
+.idea
+
+# 忽略 .iml
+*.iml
+
+
+
+
