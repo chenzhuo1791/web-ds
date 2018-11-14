@@ -15,7 +15,7 @@
     <!--
     <context:property-placeholder location="database.properties" />
     -->
-    <context:property-placeholder location="database.properties" />
+    <context:property-placeholder location="database_local.properties" />
 
     <context:component-scan base-package="com.chen"/>
 
